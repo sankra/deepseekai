@@ -1,1 +1,11 @@
 #These are steps that are required to chat with Deepseek AI from python.
+
+#installing openai library
+1. Make sure to install openAI library into your machine.
+2. To install use command pip install openai
+
+#Deepseek API
+1. Now we have to get the openAI API from Deepseek.
+2. If deepseek is not providing API we can get the same from https://openrouter.ai/
+3. Create account with openrouter.
+4. Now copy and save the API.
