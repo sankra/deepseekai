@@ -9,9 +9,10 @@ chat = client.chat.completions.create(
     messages=[
         {
             "role":"user",
-            "content":"what are the uses of Python Django Framework"
+            "content":"what are the uses of Python Django Framework" #prompt given to the Deepseek 
         }
     ]
 )
 
+#The response for the given prompt is printed here.
 print(chat.choices[0].message.content)
