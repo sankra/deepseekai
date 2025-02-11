@@ -9,3 +9,8 @@
 2. If deepseek is not providing API we can get the same from https://openrouter.ai/
 3. Create account with openrouter.
 4. Now copy and save the API.
+
+#run the code
+1. run the code in your cmd.
+2. Give the prompt as your asking a question to the bot.
+3. you will get the reponse from the bot in to your cmd.
